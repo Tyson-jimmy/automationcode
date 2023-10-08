@@ -1,0 +1,7 @@
+11:47:49.159 [main] INFO  - launchBrowser is successfully executed
+11:47:49.271 [main] INFO  - enterFullName is successfully executed
+11:47:51.859 [main] INFO  - enterEmail is successfully executed
+11:47:52.626 [main] INFO  - enterCurrentAddress is successfully executed
+11:47:52.708 [main] INFO  - enterParmanentAddress is successfully executed
+11:47:54.815 [main] INFO  - clickSubmit is successfully executed
+11:47:55.000 [main] INFO  - verifyOutput is successfully executed
